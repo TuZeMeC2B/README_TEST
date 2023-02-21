@@ -1,6 +1,6 @@
 # VK Play
 
-<p align="center"> <img src="https://vkplay.ru/hotbox/gem_static/leela/v1.24.65/logo-vkplay.svg?r=3437a93350bcc640d57d4b5599ef50c3"> </img> </p>
+<p align="center"> <img src="https://www.goha.ru/s/A:MZ/NI/Az79mMzUfV.jpg"> </img> </p>
 
 Российская площадка для любителей игр, разработчиков и авторов контента
 ---
